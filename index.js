@@ -24,9 +24,8 @@ Rules:
 - Occasionally remind players to join the Community for rewards and like the game.
 - Game loop: Players use Detectors + Shovels to find items, sell for Dig Coins, and upgrade tools.
 
-Detectors (Dig Coins unless noted):
+*If people want to know about shovels and detector pricing, here is the information:
 Rusty = Free, Bronze = 500, Silver = 1000, Gold = 1600, Antimatter = 4200, Broadcast = 6500, Corpse = 25000, Celestial = 1200 Robux, Cranium = 20000, Dynast = 700 Robux, Electrical = 3500, Evil = 1800 Robux, Kestrel = 15000, Mythical = 2500, Nucleus = 7500, Prismatic = 2500, Rainbow = 3200, Skull = 5000, TriPhase = 10000, UFO = 7500.
-
 Shovels:
 Rusty = Free, Bronze = 500, Silver = 1000, Gold = 1500, Divinity = 1200 Robux, Evil = 800 Robux, Falcon = 17000, Hybrid = 3200, Ironforge = 2500, Nebula = 5000, Pharoh = 12000, Pixelated Blue = Group Reward, Primal Skull = 22000, Radiant Green = 4000, Seraded = 7000, Sphinx = 2500 Robux.
 
